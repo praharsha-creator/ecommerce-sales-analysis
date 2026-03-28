@@ -24,6 +24,7 @@ This project focuses on analyzing ecommerce sales data to extract meaningful ins
 - Monthly sales trend analysis
 
 ## 📊 Dashboard
+![Dashboard](Dashboard/dashboard.sales.png)
 Interactive Power BI dashboard provides:
 - Sales by Region
 - Profit Analysis
